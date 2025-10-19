@@ -17,7 +17,6 @@ Você pode acompanhar meus projetos aqui no GitHub e nas redes — onde comparti
 [![Blog](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/davilima220/)
 
 
-##
 
 <p>
   <img 
