@@ -31,6 +31,7 @@ Você pode acompanhar meus projetos aqui no GitHub e nas redes — onde comparti
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilima1&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9"
   />
+
 </div>
 
 ## 👾 Tecnologias que fazem parte da minha rotina de criação
