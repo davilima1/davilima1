@@ -18,25 +18,26 @@ Você pode acompanhar meus projetos aqui no GitHub e nas redes — onde comparti
 
 
 
-<!-- Container para os cards lado a lado -->
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-  <img
-    align="center"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=davilima1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+<p align="center">
+  <img 
+    align="center" 
+    alt="GitHub Stats" 
+    height="200" 
+    width="400"
+    src="https://github-readme-stats.vercel.app/api?username=davilima1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-  <img
-    align="center"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilima1&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9"
+  <img 
+    align="center" 
+    alt="Top Langs" 
+    height="200" 
+    width="400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilima1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
+</p>
 
-</div>
 
-<!-- Agora o título e as badges ficam embaixo -->
-## 👾 Tecnologias que fazem parte da minha rotina de criação
+## 👾Tecnologias que fazem parte da minha rotina de criação
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
@@ -45,5 +46,3 @@ Você pode acompanhar meus projetos aqui no GitHub e nas redes — onde comparti
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" />
   <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
 </div>
-
-
