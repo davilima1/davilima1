@@ -45,4 +45,5 @@ Você pode acompanhar meus projetos aqui no GitHub e nas redes — onde comparti
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" />
   <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
+   <img align="center" alt="git" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
 </div>
