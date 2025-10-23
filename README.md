@@ -3,7 +3,7 @@
 
 **`👨‍💻 Desenvolvedor Front-end`** 
 
-Tenho 20 anos e sou da Paraíba. Atualmente curso Análise e Desenvolvimento de Sistemas, unindo a lógica do código com uma visão criativa e estratégica do futuro da tecnologia.
+Tenho 20 anos e sou da Paraíba. Atualmente curso Análise e Desenvolvimento de Sistemas, unindo a lógica do código com uma visão criativo e estratégica do futuro da tecnologia.
 Não sou fullstack — sou um construtor de ideias digitais. Gosto de transformar conceitos em projetos reais, e é por isso que criei o DevX, uma comunidade voltada para desenvolvedores e mentes criativas que querem transformar código em impacto.
 
 Também trabalho no desenvolvimento da PulseMind IA, uma inteligência artificial pensada para ir além da automação — uma IA com propósito, consciência de design e conexão humana.
